@@ -49,13 +49,13 @@ One Problem that I found was that Teachable machine did not connect with the OBS
 - Using a Wireless Probe type Ultrasound Scanner with ultrasound gel, I was able to collect and pin point the best settings for displaying the tongue: by creating a vertical scann directly underneath the Chin. 
 <table>
   <tr>
-    <td><img src="images/model8.gif" height="640" width="960"/></td>
+    <td><img src="images/model8.gif" width="960"/></td>
   </tr>
   <tr>
-    <td><img src="images/model9.gif" height="640" width="960"/></td>
+    <td><img src="images/model9.gif" width="960"/></td>
   </tr>
   <tr>
-    <td><img src="images/model10.gif" height="640" width="960"/></td>
+    <td><img src="images/model10.gif"  width="960"/></td>
   </tr>
 </table>
 
@@ -70,12 +70,12 @@ A real-time integration of OBS Virtual Camera in P5js and exporting to a Spout s
 Shader work with shadertoy and P5js libraries playing with visual textures. This visual exploration lead to the inspiration of phontic indexes and typology using ultrasound imaging. 
 <table>
   <tr>
-    <td><img src="images/tongue_gif.gif" width="960"/></td>
-    <td><img src="images/tongue_gif2.gif" width="960"/></td>
+    <td><img src="images/tongue_gif.gif" width="400"/></td>
+    <td><img src="images/tongue_gif2.gif" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="images/tongue_gif3.gif" width="960"/></td>
-    <td><img src="images/tongue_gif4.gif" width="960"/></td>
+    <td><img src="images/tongue_gif3.gif" width="400"/></td>
+    <td><img src="images/tongue_gif4.gif" width="400"/></td>
   </tr>
 </table>
 
@@ -100,6 +100,7 @@ I uploaded the images and trained a classification LLM using [Google Teachable M
 </a>
 
 # Screenprinting
+
 - Curated frames from a recording of the phrase "um" screenprinted on Bristol 80 lbs paper with a 180 mesh screen. 
 <table>
   <tr>
@@ -126,6 +127,7 @@ I uploaded the images and trained a classification LLM using [Google Teachable M
 <a href="https://youtu.be/g427GR-Lbww" target="_blank">
   <img src="https://img.youtube.com/vi/g427GR-Lbww/hqdefault.jpg" width="1000">
 </a>
+
 Image scans of the completed 40 frame perfect-bound flipbook 
 
 
