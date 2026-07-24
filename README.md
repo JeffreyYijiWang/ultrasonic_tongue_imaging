@@ -1,12 +1,20 @@
 <div align="center">
-<table>
-  <tr>
-    <td><img src="images/print_1.png" width="300"/></td>
-    <td><img src="images/print_2.png" width="300"/></td>
-    <td><img src="images/print_4.png" width="300"/></td>
-    <td><img src="images/print_8.jpg" width="300"/></td>
-  </tr>
-</table>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding:4;">
+        <img src="images/print_1.png" width="300"/>
+      </td>
+      <td style="border: none; padding: 4;">
+        <img src="images/print_2.png" width="300"/>
+      </td>
+      <td style="border: none; padding: 4;">
+        <img src="images/print_4.png" width="290"/>
+      </td>
+      <td style="border: none; padding: 4;">
+        <img src="images/print_8.jpg" width="290"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 # Ultrasonic_Tongue_Imaging
@@ -97,13 +105,10 @@ Important Note: You will need to run OBS, Spout, Chrome (I find it to work best)
   <table>
     <tr>
       <td style="padding: 10px;">
-        <img src="images/model8.gif" width="400"/>
+        <img src="images/model9.gif" width="380"/>
       </td>
       <td style="padding: 10px;">
-        <img src="images/model9.gif" width="400"/>
-      </td>
-      <td style="padding: 10px;">
-        <img src="images/model10.gif" width="400"/>
+        <img src="images/model10.gif" width="368"/>
       </td>
     </tr>
   </table>
@@ -157,7 +162,7 @@ I uploaded the images and trained a trained a CNN image classifier using [Google
   <table>
     <tr>
       <td align="center" style="padding: 12px;">
-        <img src="images/p5js_application.gif" width="800"/>
+        <img src="images/P5js_application.gif" width="500"/>
       </td>
       <td align="center" style="padding: 12px;">
         <img src="images/Live_demo.gif" width="265"/>
@@ -177,12 +182,12 @@ Shader work with shadertoy and p5.js libraries playing with visual textures. Thi
 <div align="center">
 <table>
   <tr>
-    <td><img src="images/tongue_gif.gif" width="400"/></td>
-    <td><img src="images/tongue_gif2.gif" width="400"/></td>
+    <td><img src="images/tongue_gif.gif" width="350"/></td>
+    <td><img src="images/tongue_gif2.gif" width="350"/></td>
   </tr>
   <tr>
-    <td><img src="images/tongue_gif3.gif" width="400"/></td>
-    <td><img src="images/tongue_gif4.gif" width="400"/></td>
+    <td><img src="images/tongue_gif3.gif" width="350"/></td>
+    <td><img src="images/tongue_gif4.gif" width="350"/></td>
   </tr>
 </table>
 </div>
