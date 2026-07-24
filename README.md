@@ -104,10 +104,10 @@ Important Note: You will need to run OBS, Spout, Chrome (I find it to work best)
 <div align="center">
   <table>
     <tr>
-      <td style="padding: 10px;">
-        <img src="images/model9.gif" width="380"/>
+      <td style="padding: 4px;">
+        <img src="images/model9.gif" width="370"/>
       </td>
-      <td style="padding: 10px;">
+      <td style="padding: 4px;">
         <img src="images/model10.gif" width="368"/>
       </td>
     </tr>
@@ -161,10 +161,10 @@ I uploaded the images and trained a trained a CNN image classifier using [Google
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 12px;">
+      <td align="center" style="padding: 4px;">
         <img src="images/P5js_application.gif" width="500"/>
       </td>
-      <td align="center" style="padding: 12px;">
+      <td align="center" style="padding: 4px;">
         <img src="images/Live_demo.gif" width="265"/>
       </td>
     </tr>
