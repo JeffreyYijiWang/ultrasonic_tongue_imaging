@@ -161,11 +161,11 @@ I uploaded the images and trained a trained a CNN image classifier using [Google
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 4px;">
+      <td align="center" style="padding: 1px;">
         <img src="images/P5js_application.gif" width="480"/>
       </td>
-      <td align="center" style="padding: 4px;">
-        <img src="images/Live_demo.gif" width="265"/>
+      <td align="center" style="padding: 1px;">
+        <img src="images/Live_demo.gif" width="240"/>
       </td>
     </tr>
   </table>
