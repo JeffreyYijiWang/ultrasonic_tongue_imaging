@@ -162,7 +162,7 @@ I uploaded the images and trained a trained a CNN image classifier using [Google
   <table>
     <tr>
       <td align="center" style="padding: 4px;">
-        <img src="images/P5js_application.gif" width="500"/>
+        <img src="images/P5js_application.gif" width="480"/>
       </td>
       <td align="center" style="padding: 4px;">
         <img src="images/Live_demo.gif" width="265"/>
